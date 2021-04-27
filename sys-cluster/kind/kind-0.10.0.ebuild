@@ -8,7 +8,7 @@ LICENSE=""
 SLOT="0"
 KEYWORDS="amd64"
 
-RDEPEND="app-emulator/docker"
+RDEPEND="app-emulation/docker"
 BDEPEND=""
 
 S=${WORKDIR}
