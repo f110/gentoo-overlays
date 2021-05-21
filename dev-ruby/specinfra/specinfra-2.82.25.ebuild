@@ -16,5 +16,5 @@ KEYWORDS="amd64"
 ruby_add_rdepend "
 	>=dev-ruby/net-scp-1.2.1-r1
 	>=dev-ruby/net-ssh-5.2.0
-	=dev-ruby/net-telnet-0.1.1
+	=dev-ruby/net-telnet-0.1.1-r1
 	>=dev-ruby/sfl-2.2-r1"
