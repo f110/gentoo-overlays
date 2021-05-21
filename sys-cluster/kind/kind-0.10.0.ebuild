@@ -4,7 +4,7 @@ DESCRIPTION="Kubernetes In Docker - local clusters for testing Kubernetes"
 HOMEPAGE="https://kind.sigs.k8s.io"
 SRC_URI="https://github.com/kubernetes-sigs/kind/releases/download/v${PV}/kind-linux-amd64"
 
-LICENSE=""
+LICENSE="Apache-2.0"
 SLOT="0"
 KEYWORDS="amd64"
 
